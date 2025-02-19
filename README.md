@@ -1,2 +1,11 @@
-# website
-This is the official website repository for the Umicom Foundation, a registered not-for-profit organization focused on humanitarian aid and educational projects. This project will serve as a digital platform to share the foundation's mission, initiatives, and progress.
+# Umicom Foundation Website
+
+Welcome to the Umicom Foundation website repository! This project houses the foundation's website, where we share our mission, ongoing initiatives, and updates. We welcome contributions from the community to improve and expand the website.
+
+## How to Contribute
+
+1. **Clone the repository**  
+   To get started, clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/umicom-foundation/website.git
+
