@@ -1,0 +1,36 @@
+body {
+    font-family: 'PT Sans', Arial, sans-serif;
+}
+.hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('hero-image.jpg') no-repeat center center/cover;
+    color: white;
+    padding: 100px 20px;
+    text-align: center;
+}
+.section-heading {
+    text-align: center;
+    margin-bottom: 40px;
+}
+.partners img {
+    max-width: 100%;
+    height: auto;
+}
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.logo-container {
+display: flex;
+align-items: center; /* Align vertically */
+justify-content: center; /* Align horizontally if needed */
+padding: 100px; /* Optional for spacing */
+}
+
+.logo {
+height: 90px; /* Adjust height for logo size */
+width: auto; /* Maintain aspect ratio */
+max-height: 100%; /* Prevent overflow */
+}
