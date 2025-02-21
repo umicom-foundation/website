@@ -12,3 +12,5 @@
 <!-- partners section -->
 <?php include SECTIONS_DIR.'sponsor_section.php'; ?>
 
+<!-- video section -->
+<?php include SECTIONS_DIR.'video_section.php'; ?>
