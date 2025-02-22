@@ -27,7 +27,7 @@ header .logo {
 }
 
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/highlights/hero-image.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/highlights/hero_1440_800.jpg') no-repeat center center/cover;
     color: white;
     padding: 10px 10px;
     text-align: center;
@@ -94,6 +94,18 @@ header .logo {
     border-radius: 8px;
 }
 
+/*.row img {
+    display: grid;
+    place-items: center;  Centers both horizontally & vertically 
+    height: 100%;
+}*/
+
+.image-container {
+    display: flex;
+    align-items: center; /* Centers vertically */
+    justify-content: center; /*Centers horizontally (optional) */
+    height: 100%; /* Ensure the container has height */
+}
 .partners img {
     max-width: 100%;
     height: auto;
