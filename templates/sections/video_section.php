@@ -4,11 +4,7 @@
             <h3>Foundation Videos</h3>
         </div>
         <div class="row">
-            <!--         <div class="col-md-4">
-                    <div class="ratio ratio-16x9 mb-4">
-                        <iframe src="https://www.youtube.com/embed/_YJ9iwfIuBA?si=vh_FJzF3kMnXvWyC" title="Foundation Video 1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    </div>
-                </div> -->
+        
             <div class="col-md-12">
                 <a data-fancybox="gallery" href="https://umicom.foundation/public/videos/highlights.mp4" class="d-block mb-4">
                     <video width="100%" controls>
