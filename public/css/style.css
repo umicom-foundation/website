@@ -27,7 +27,7 @@ header .logo {
 }
 
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/highlights/hero_1440_800.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('public/images/highlights/hero_1440_800.jpg') no-repeat center center/cover;
     color: white;
     padding: 10px 10px;
     text-align: center;

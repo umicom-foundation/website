@@ -10,41 +10,41 @@
                     </div>
                 </div> -->
                 <div class="col-md-12">
-                    <a data-fancybox="gallery" href="/videos/highlights.mp4" class="d-block mb-4">
+                    <a data-fancybox="gallery" href="public/videos/highlights.mp4" class="d-block mb-4">
                         <video width="100%" controls>
-                            <source src="/videos/highlights.mp4" type="video/mp4">
+                            <source src="public/videos/highlights.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </a>
                 </div>
                 <div class="col-md-3">
-                    <a data-fancybox="gallery" href="/videos/gaza_cash_distribution_video.mp4" class="d-block mb-4">
+                    <a data-fancybox="gallery" href="public/videos/gaza_cash_distribution_video.mp4" class="d-block mb-4">
                         <video width="100%" controls>
-                            <source src="/videos/gaza_cash_distribution_video.mp4" type="video/mp4">
+                            <source src="public/videos/gaza_cash_distribution_video.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </a>
                 </div>
                 <div class="col-md-3">
-                    <a data-fancybox="gallery" href="/videos/north_gaza_water_project.mp4" class="d-block mb-4">
+                    <a data-fancybox="gallery" href="public/videos/north_gaza_water_project.mp4" class="d-block mb-4">
                         <video width="100%" controls>
-                            <source src="/videos/north_gaza_water_project.mp4" type="video/mp4">
+                            <source src="public/videos/north_gaza_water_project.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </a>
                 </div>
                 <div class="col-md-3">
-                    <a data-fancybox="gallery" href="/videos/gaza_cash_distribution_video.mp4" class="d-block mb-4">
+                    <a data-fancybox="gallery" href="public/videos/gaza_cash_distribution_video.mp4" class="d-block mb-4">
                         <video width="100%" controls>
-                            <source src="/videos/gaza_cash_distribution_video.mp4" type="video/mp4">
+                            <source src="public/videos/gaza_cash_distribution_video.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </a>
                 </div>
                 <div class="col-md-3">
-                    <a data-fancybox="gallery" href="/videos/gaza_cash_distribution_video.mp4" class="d-block mb-4">
+                    <a data-fancybox="gallery" href="public/videos/gaza_cash_distribution_video.mp4" class="d-block mb-4">
                         <video width="100%" controls>
-                            <source src="/videos/gaza_cash_distribution_video.mp4" type="video/mp4">
+                            <source src="public/videos/gaza_cash_distribution_video.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </a>
