@@ -5,7 +5,8 @@ body {
 }
 
 header {
-    background-color: #f8f9fa; /* Light background for header */
+    background-color: #f8f9fa;
+    /* Light background for header */
     padding: 20px 0;
 }
 
@@ -27,7 +28,7 @@ header .logo {
 }
 
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('public/images/highlights/hero_1440_800.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://umicom.foundation/public/images/highlights/hero_1440_800.jpg') no-repeat center center/cover;
     color: white;
     padding: 10px 10px;
     text-align: center;
@@ -66,11 +67,12 @@ header .logo {
     font-size: 28px;
     color: #333;
 }
+
 .project-card {
     position: relative;
     border: 1px solid #ddd;
     border-radius: 8px;
-    color: white; 
+    color: white;
     padding: 20px;
     margin-bottom: 20px;
     background-color: #fff;
@@ -102,23 +104,30 @@ header .logo {
 
 .image-container {
     display: flex;
-    align-items: center; /* Centers vertically */
-    justify-content: center; /*Centers horizontally (optional) */
-    height: 100%; /* Ensure the container has height */
+    align-items: center;
+    /* Centers vertically */
+    justify-content: center;
+    /*Centers horizontally (optional) */
+    height: 100%;
+    /* Ensure the container has height */
 }
+
 .partners img {
     max-width: 100%;
     height: auto;
 }
+
 footer {
     background-color: #343a40;
     color: white;
     padding: 20px 0;
     text-align: center;
 }
+
 .bank-tabs .nav-link {
     color: #333;
 }
+
 .bank-tabs .nav-link.active {
     background-color: #007bff;
     color: #fff;
