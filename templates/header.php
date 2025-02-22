@@ -11,6 +11,21 @@
     <meta name="author" content="Umicom Foundation">
     <meta name="robots" content="index, follow">
 
+
+    <!-- Open Graph (OG) Meta Tags for Facebook, LinkedIn, WhatsApp -->
+<meta property="og:title" content="Umicom Foundation | 100% Donation Policy | Humanitarian Aid & Support">
+<meta property="og:description" content="Join Umicom Foundation in providing humanitarian relief, medical support, and education for those in need. Every donation goes directly to the cause.">
+<meta property="og:image" content="https://umicom.foundation/public/images/preview_umicom_foundation.jpg">
+<meta property="og:url" content="https://umicom.foundation">
+<meta property="og:type" content="website">
+
+<!-- Twitter Card for Twitter/X -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Umicom Foundation | 100% Donation Policy">
+<meta name="twitter:description" content="Providing direct humanitarian aid, medical assistance, and refugee support with a 100% donation policy.">
+<meta name="twitter:image" content="https://umicom.foundation/public/images/preview_umicom_foundation.jpg">
+
+
     <link rel="icon" href="https://umicom.foundation/public/images/logo.svg" type="image/svg+xml">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
